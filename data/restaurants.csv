@@ -1,0 +1,221 @@
+restaurant_name;michelin_stars;city;province;CCAA;coast_province;coordenates;price_menu_1;price_menu_2;price_average;type_of_cooking1;type_of_cooking2;International_cooking;regional_cooking
+Mantua;1;Jerez de la Frontera;Cadiz;Andalucia;Yes;36.6874279,-6.1380431;75;90;82.5;Moderna;;;
+Lu Cocina y Alma;1;Jerez de la Frontera;Cadiz;Andalucia;Yes;36.6876237,-6.1376777;90;150;120;Moderna;;;
+Aponiente;3;El Puerto de Santa Maria;Cadiz;Andalucia;Yes;36.605854,-6.2157528;215;;215;Creativa;Innovadora;;
+Alevante;1;Novo Sancti Petri;Cadiz;Andalucia;Yes;36.3442398,-6.1616944;115;135;125;Creativa;Innovadora;;
+Abantal;1;Sevilla;Sevilla;Andalucia;No;37.3879127,-5.98587;80;100;90;Creativa;;;
+Bardal;2;Ronda;Malaga;Andalucia;Yes;36.7415185,-5.168635;115;140;127.5;Creativa;;;
+Skina;2;Marbella;Malaga;Andalucia;Yes;36.5114716,-4.8878768;149;169;159;Moderna;;;
+Messina;1;Marbella;Malaga;Andalucia;Yes;36.50844,-4.8824148;65;119;92;Creativa;;;
+El Lago;1;Marbella;Malaga;Andalucia;Yes;36.5058882,-4.781464;65;85;75;Creativa;;;
+Sollo;1;Fuengirola;Malaga;Andalucia;Yes;36.5800119,-4.597418;110;;110;Creativa;Moderna;;
+Jose Carlos Garcia;1;Malaga;Malaga;Andalucia;Yes;36.7172505,-4.414637;100;140;120;Creativa;;;Andaluza
+Choco;1;Cordoba;Cordoba;Andalucia;No;37.8851881,-4.7645592;95;125;110;Creativa;;;
+Noor;2;Cordoba;Jaen;Andalucia;No;37.8897714,-4.7606785;95;190;142.5;Creativa;;;
+Baga;1;Jaen;Jaen;Andalucia;No;37.76686,-3.7883987;75;;75;Moderna;;;
+Dama Juana;1;Jaen;Jaen;Andalucia;No;37.7672401,-3.787694;55;85;70;Moderna;Tradicional;;
+La Costa;1;El Ejido;Jaen;Andalucia;No;36.7708435,-2.8299363;98;;98;Moderna;;;Mediterranea
+Atrio;2;Caceres;Caceres;Extremadura;No;39.4730184,-6.3734946;185;;185;Creativa;;;
+Alejandro;1;Roquetas de Mar;Almeria;Andalucia;Yes;36.755452,-2.6092897;40;85;62.5;Contemporanea;;;Andaluza
+Retama;1;Torrenueva;Ciudad Real;Castilla la Mancha;No;38.666574,-3.3120869;50;75;62.5;Moderna;;;
+Raices - Carlos Maldonado;1;Talavera de la Reina;Toledo;Castilla la Mancha;No;39.9565843,-4.8342312;55;65;60;Creativa;;;
+Ivan Cerdeño;1;Toledo;Toledo;Castilla la Mancha;No;39.8617791,-4.0483204;45;130;87.5;Moderna;;;
+El Bohio;1;Illescas;Toledo;Castilla la Mancha;No;40.1263915,-3.8484781;70;135;102.5;Moderna;;;
+Chiron;1;Valdemoro;Madrid;C.Madrid;No;40.1915878,-3.6786869;55;99;77;Moderna;;;
+Cabaña Buena Vista;2;El Palmar;Murcia;Murcia;Yes;37.9112503,-1.0589374;70;140;105;Creativa;;;
+Corral de la Moreria Gastronomico;1;Madrid;Madrid;C.Madrid;No;40.4126847,-3.7163528;49;85;67;Moderna;;;
+Yugo;1;Madrid;Madrid;C.Madrid;No;40.4105196,-3.6950356;125;165;145;Internacional;;Japonesa;
+Gofio;1;Madrid;Madrid;C.Madrid;No;40.4138889,-3.700472;65;95;80;Regional;;;Canaria
+Odiseo;1;Murcia;Murcia;Murcia;Yes;37.9995489,-1.1292663;65;90;77.5;Moderna;;;
+Cebo;1;Madrid;Madrid;C.Madrid;No;40.4162409,-3.7008853;85;120;102.5;Creativa;;;
+El Club Allard;1;Madrid;Madrid;C.Madrid;No;40.4231877,-3.7164477;85;135;110;Creativa;;;
+Paco Roncero;2;Madrid;Madrid;C.Madrid;No;40.417865,-3.7026609;148;;148;Creativa;;;
+DSTAgE;2;Madrid;Madrid;C.Madrid;No;40.4246028,-3.6985474;145;170;157.5;Creativa;;;
+Kabuki;1;Madrid;Madrid;C.Madrid;No;40.4246024,-3.7051135;85;130;107.5;Internacional;;Japonesa;
+Saddle;1;Madrid;Madrid;C.Madrid;No;40.4274198,-3.6933023;85;120;102.5;Contemporanea;;;
+La Tasqueria;1;Madrid;Madrid;C.Madrid;No;40.4223208,-3.6759737;40;75;57.5;Moderna;;;
+Ramon Freixa Madrid;2;Madrid;Madrid;C.Madrid;No;40.4285278,-3.6886534;90;145;117.5;Creativa;;;
+Coque;2;Madrid;Madrid;C.Madrid;No;40.430682,-3.6926397;198;318;258;Creativa;;;
+Lua;1;Madrid;Madrid;C.Madrid;No;40.4329107,-3.6957335;50;72;61;Moderna;;;
+Montia;1;San Lorenzo de El Escorial;Madrid;C.Madrid;No;40.5932922,-4.1499033;60;82;71;Moderna;Tradicional;;
+Magoga;1;Cartagena;Murcia;Murcia;Yes;37.6054969,-0.9859742;45;85;65;Contemporanea;;;Murciana
+Santceloni;2;Madrid;Madrid;C.Madrid;No;40.4388582,-3.6937016;110;185;147.5;Creativa;;;
+A'Barra;1;Madrid;Madrid;C.Madrid;No;40.4387391,-3.6899898;65;105;85;Internacional;;Española;
+El Invernadero;1;Madrid;Madrid;C.Madrid;No;40.4445498,-3.7011323;95;150;122.5;Moderna;;;
+Clos Madrid;1;Madrid;Madrid;C.Madrid;No;40.4461316,-3.7016392;55;85;70;Moderna;;;
+Kabuki;1;Madrid;Madrid;C.Madrid;No;40.4461312,-3.7082053;70;95;82.5;Internacional;;Japonesa;
+Gaytan;1;Madrid;Madrid;C.Madrid;No;40.4498349,-3.6807403;50;137;93.5;Moderna;;;
+Diverxo;3;Madrid;Madrid;C.Madrid;No;40.4578817,-3.6880015;250;;250;Creativa;;;
+En la Parra;1;Salamanca;Salamanca;Castilla y Leon;No;40.9606719,-5.6664957;42;58;50;Moderna;;;
+Victor Gutierrez;1;Salamanca;Salamanca;Castilla y Leon;No;40.9630362,-5.6724967;80;120;100;Creativa;Fusion;;
+Maralba;3;Alamansa;Albacerte;Castilla la Mancha;No;38.8696351,-1.0934061;56;95;75.5;Creativa;;;Castellana
+Trivio;1;Cuenca;Cuenca;Castilla la Mancha;No;40.0741435,-2.1398272;30;70;50;Moderna;;;
+La Finca;1;Elche;Alicante;C.Valenciana;Yes;38.2561397,-0.6522904;73;119;96;Creativa;;;
+Monastrell;1;Alicante;Alicante;C.Valenciana;Yes;38.3391442,-0.4897104;66;115;90.5;Moderna;;;
+Baeza & Rufete;1;Alicante;Alicante;C.Valenciana;Yes;38.368648,-0.4355661;35;65;50;Moderna;;;
+La Botica;1;Matapozuelos;Valladolid;Castilla y Leon;No;41.4143355,-4.7936906;45;65;55;Moderna;;;
+Sents;1;Ontinyent;Alicante;C.Valenciana;Yes;38.818966,-0.6022797;85;;85;Moderna;;;
+L'Escaleta;2;Cocentaina;Alicante;C.Valenciana;Yes;38.7570388,-0.4487872;80;135;107.5;Creativa;;;Mediterranea
+Triigo;1;Valladolid;Valladolid;Castilla y Leon;No;41.6525335,-4.7268548;45;55;50;Moderna;;;
+Refectorio;1;Sardon de Duero;Valladolid;Castilla y Leon;No;41.6166551,-4.4131639;130;170;150;Creativa;;;
+El Xato;1;La nucia;Alicante;C.Valenciana;Yes;38.617229,-0.1253347;59;79;69;Creativa;;;Mediterranea
+Taller Arzuaga por Victor Rodriguez;1;Quitanilla de Onesimo;Valladolid;Castilla y Leon;No;41.6290468,-4.3241797;50;110;80;Creativa;Moderna;;
+El Doncel;1;Sigüenza;Soria;Castilla y Leon;No;41.069228,-2.6458641;76;118;97;Moderna;;;
+Ambivium;1;Peñafiel;Valladolid;Castilla y Leon;No;41.594665,-4.0900757;75;95;85;Moderna;;;
+Hospederia el Batan;1;Tramacastiilla;Teruel;Castilla la Mancha;No;40.4266192,-1.5625197;49;69;59;Creativa;Moderna;;
+El Molino de Alcuneza;1;Sigüenza;Soria;Castilla y Leon;No;41.105905,-2.6063827;58;79;68.5;Moderna;;;
+Manuel Alonso Restaurante;1;Daimus;Valencia;C.Valenciana;Yes;38.9754267,-0.1429198;92;;92;Moderna;;;
+Orobianco;1;Calp;Alicante;C.Valenciana;Yes;38.6659775,0.0424549;75;110;92.5;Contemporanea;;Italiana;
+Beat;1;Calp;Alicante;C.Valenciana;Yes;38.6466641,0.0556022;45;95;70;Contemporanea;;Francesa;
+Audrey's by Rafa Soler;1;Calp;Alicante;C.Valenciana;Yes;38.6505583,0.0712393;55;95;75;Creativa;;;
+Casa Pepa;1;Ondara;Alicante;C.Valenciana;Yes;38.8199543,0.0034418;45;85;65;Creativa;;;
+La Salita;1;Valencia;Valencia;C.Valenciana;Yes;39.4625364,-0.3716751;88;121;104.5;Creativa;Moderna;;
+El Poblet;2;Valencia;Valencia;C.Valenciana;Yes;39.4696969,-0.3766837;88;135;111.5;Creativa;;;
+Ricard Camarena;2;Valencia;Valencia;C.Valenciana;Yes;39.4854049,-0.3852846;135;175;155;Creativa;;;
+Riff;1;Valencia;Valencia;C.Valenciana;Yes;39.4656285,-0.3707347;45;135;90;Creativa;Moderna;;
+Sucede;1;Valencia;Valencia;C.Valenciana;Yes;39.4759641,-0.3740923;98;120;109;Moderna;;;
+El Ermitaño;1;Benavente;Valencia;C.Valenciana;Yes;42.0062151,-5.6592607;45;75;60;Moderna;Tradicional;;
+Quique Dacosta;3;Denia;Alicante;C.Valenciana;Yes;38.8537421,0.0829915;210;;210;Creativa;;;
+BombAmb;2;Javea;Alicante;C.Valenciana;Yes;38.7900175,-0.1299619;70;150;110;Creativa;;;
+Tula;1;Xabia;Alicante;C.Valenciana;Yes;38.7884746,-0.4713395;40;70;55;Moderna;;;Mediterranea
+La Lobita;1;Navaleno;Alicante;C.Valenciana;Yes;41.8366253,-3.0085014;70;90;80;Creativa;;;
+Nova;1;Orense;Orense;Galicia;No;42.3399499,-7.8644896;40;80;60;Moderna;;;
+Miguel Gonzalez;1;Tibias;Orense;Galicia;No;42.3489817,-7.8154355;60;75;67.5;Contemporanea;;;Gallega
+Baluarte;1;Soria;Soria;Castilla y Leon;No;41.7625529,-2.4678017;39;75;57;Moderna;;;
+Muna;1;Ponferrada;Leon;Castilla y Leon;No;42.5433255,-6.5952834;27;68;47.5;Moderna;;;
+Silabario;1;Vigo;Pontevedra;Galicia;Yes;41.721574,-9.7858603;25;80;52.5;Moderna;;;
+Maruja Limon;1;Vigo;Pontevedra;Galicia;Yes;42.240349,-8.7260007;50;90;70;Creativa;;;
+Cal Paradis;1;Castellon;Castellon;C.Valenciana;Yes;40.1767805,-0.0361284;45;110;77.5;Creativa;;;
+Pablo;1;Leon;Leon;Castilla y Leon;No;42.6005993,-5.5685987;60;85;72.5;Moderna;;;
+Cocinados;1;Leon;Leon;Castilla y Leon;No;42.6020817,-5.5832467;55;90;72.5;Moderna;;;
+Eirado;1;Pontevedra;Pontevedra;Galicia;Yes;42.432601,-8.6455637;45;72;58.5;Moderna;;;
+Pepe Vieira;1;Serpe;Pontevedra;Galicia;Yes;42.4090574,-8.7566269;87;145;116;Creativa;;;
+Solla;1;Solla;Pontevedra;Galicia;Yes;42.4333824,-8.6712184;96;136;116;Creativa;;;
+El Portal de Echauren;2;Ezcaray;La Rioja;La Rioja;No;42.3254967,-3.0168118;75;150;112.5;Creativa;Moderna;;
+Culler de Pau;2;Reboredo;Pontevedra;Galicia;Yes;42.4753419,-8.8980836;90;130;110;Creativa;;;
+Yayo Daporta;1;Cambados;Pontevedra;Galicia;Yes;42.512876,-8.8169706;65;120;92.5;Creativa;;;
+Es Tragon;1;Sant Antoni de Portmany;Islas Baleares;Islas Baleares;Yes;38.9955936,1.2894267;85;155;120;Creativa;;;
+Venta Moncalvillo;1;Daroca de Rioja;La Rioja;La Rioja;No;42.3714126,-2.5827635;90;110;100;Moderna;;;
+Raul Resino;1;Benicarlo;Castellon;C.Valenciana;Yes;40.4222222,0.4272557;65;;65;Creativa;;;
+Cancook;1;Zaragoza;Zaragoza;Aragon;No;41.6347918,-0.9060888;62;100;81;Creativa;;;
+L'Antic Moli;1;Ulldecona;Tarragona;Cataluña;Yes;40.6091133,0.334925;60;95;77.5;Tradicional;;;
+La Prensa;1;Zaragoza;Zaragoza;Aragon;No;41.6332626,-0.8769784;70;95;82.5;Creativa;;;
+Marques de Riscal;1;Elciego;La Rioja;La Rioja;No;42.4836424,-2.6815241;110;140;125;Creativa;;;
+Kiro Sushi;1;Logroño;La Rioja;La Rioja;No;42.4623012,-2.4518336;110;;110;Internacional;;Japonesa;
+Ikaro;1;Logroño;La Rioja;La Rioja;No;42.4643168,-2.4506718;48;75;61.5;Creativa;;;
+Les Moles;1;Ulldecona;Tarragona;Cataluña;Yes;40.6038903,0.4182978;30;100;65;Creativa;Moderna;;
+A Tafona;1;Santiago de Compostela;La Coruña;Galicia;Yes;42.8807913,-8.5424076;70;98;84;Moderna;;;
+Casa Marcelo;1;Santiago de Compostela;La Coruña;Galicia;Yes;42.8807047,-8.5491558;40;70;55;Fusion;;;
+Retiro da Costiña;1;Santa Comba;La Coruña;Galicia;Yes;43.03338,-8.8061827;50;90;70;Moderna;;;
+Villa Retiro;1;Xerta;Tarragona;Cataluña;Yes;40.9121081,0.488298;58;120;89;Creativa;Tradicional;;
+El Corral de Indianu;1;Arriondas;Asturias;Asturias;Yes;43.3903133,-5.1865511;50;95;72.5;Creativa;;;
+Casa Marcial;2;La Salgar;Asturias;Asturias;Yes;43.4184264,-5.1930837;90;175;132.5;Creativa;;;Asturiana
+El Retiro;1;Llanes;Asturias;Asturias;Yes;43.412318,-4.7668317;60;115;87.5;Moderna;;;Asturiana
+Arbidel;1;Ribadesella;Asturias;Asturias;Yes;43.4612843,-5.0619682;55;130;92.5;Moderna;;;Asturiana
+La Salgar;2;Gijon;Asturias;Asturias;Yes;43.5371374,-5.6372051;55;85;70;Moderna;;;Asturiana
+Auga;1;Gijon;Asturias;Asturias;Yes;43.546534,-5.6688497;55;84;69.5;Moderna;;;Asturiana
+Casa Gerardo;1;Prendes;Asturias;Asturias;Yes;43.5553059,-5.7687693;60;132;96;Moderna;;;Asturiana
+Real Balneario;1;Salinas;Asturias;Asturias;Yes;43.5772832,-5.9680505;50;180;115;Tradicional;;;
+arbore da Veira;1;La Coruña;La Coruña;Galicia;Yes;43.3773564,-8.4353175;50;80;65;Creativa;;;
+El Nuevo Molino;1;Arce;Santander;Cantabria;Yes;43.4060968,-3.9507236;45;80;62.5;Moderna;;;
+Solana;1;Ampuero;Santander;Cantabria;Yes;43.3264644,-3.4553118;50;90;70;Moderna;;;
+As Garzas;1;Barizo;La Coruña;Galica;Yes;43.3202778,-8.8741331;45;70;57.5;Regional;;;Gallega
+La Bicicleta;1;Hoznayo;Santander;Cantabria;Yes;43.3901842,-3.7041164;95;120;107.5;Moderna;;;
+Asador Etxebarri;1;Axpe;Vizcaya;Pais Vasco;Yes;43.1156216,-2.5993663;100;198;149;Tradicional;;;
+Cenador de Amos;3;Villaverde de Pontones;Santander;Cantabria;Yes;43.4123995,-3.7013692;177;210;193.5;Moderna;;;
+Espacio N;1;Esquedas;Huesca;Aragon;No;42.212151,-0.5481554;85;;85;Creativa;Tradicional;;
+El Serbal;1;Santander;Santander;Cantabria;Yes;43.4649051,-3.7979617;48;92;70;Tradicional;;;
+Mina;1;Bilbao;Vizcaya;Pais Vasco;Yes;43.2549827,-2.9269726;90;120;105;Creativa;de temporada;;
+Zarate;1;Bilbao;Vizcaya;Pais Vasco;Yes;43.2625749,-2.9457042;55;85;70;Tradicional;;;
+Ola Martin Berasategui;1;Bilbao;Vizcaya;Aragon;No;43.2579419,-2.9285907;60;110;85;Tradicional;Contemporanea;;
+Lillas Pastia;1;Huesca;Huesca;Aragon;No;42.1360918,-0.4117682;45;70;57.5;Moderna;;;
+Tatau;1;Huesca;Huesca;Aragon;No;42.138461,-0.4106545;60;100;80;Creativa;Tradicional;;
+Andra Mari;1;Galdakao;Vizcaya;Pais Vasco;Yes;43.2344002,-2.8353597;45;80;62.5;Tradicional;Contemporanea;;
+Zortziko;1;Bilbao;Vizcaya;Pais Vasco;Yes;43.2645994,-2.931633;65;110;87.5;Contemporanea;;;Española
+Etxanobe Atelier;1;Bilbao;Vizcaya;Pais Vasco;Yes;43.2654953,-2.9336355;125;150;137.5;Creativa;;;
+Nerua Guggenheim;1;Bilbao;Vizcaya;Pais Vasco;Yes;43.2688201,-2.9347598;75;148;111.5;Creativa;;;
+Europa;1;Pamplona;Navarra;Navarra;No;42.8162649,-1.642119;65;89;77;Contemporanea;;;Navarra
+Rodero;1;Pamplona;Navarra;Navarra;No;42.81585,-1.6395804;65;87;76;Moderna;;;
+Boroa;1;Amorebieta;Vizcaya;Pais Vasco;Yes;43.2405777,-2.7550323;45;121;83;Tradicional;Contemporanea;;
+La Biblioteca;1;Pamplona;Navarra;Navarra;No;42.8195815,-1.6262414;95;110;102.5;Creativa;Moderna;;
+Eneko;1;Larraabetzu;Vizcaya;Pais Vasco;Yes;43.260808,-2.8321865;77;;77;Creativa;;;
+Azurmendi;3;Larraabetzu;Vizcaya;Pais Vasco;Yes;43.2605569,-2.8182185;250;;250;Creativa;;;
+Malena;1;Gimenells;Lerida;Cataluña;No;41.6563339,0.387171;45;77;61;Moderna;;;
+Can Bosh;1;Cambrils;Tarragona;Cataluña;Yes;41.0671239,1.0568278;48;90;69;Tradicional;;;
+Rincon de Diego;1;Cambrils;Tarragona;Cataluña;Yes;41.0671239,1.0568278;49;105;77;Tradicional;;;
+Quatre Molins;1;Cornudella de Montsant;Tarragona;Cataluña;Yes;41.264595,0.9027138;50;65;57.5;Creativa;;;
+El Molino de Urdaniz;2;Urdaitz;Navarra;Navarra;No;42.9091848,-1.5361855;120;;120;Creativa;;;
+Deliranto;1;Salou;Tarragona;Cataluña;Yes;41.0769045,1.1305012;120;150;135;Creativa;Contemporanea;;
+Elkano;1;Getaria;Guipuzcua;Pais Vasco;No;43.3030455,-2.2071664;75;110;92.5;Tradicional;Contemporanea;;
+Martin Berasategui;3;Lasarte;Guipuzcua;Pais Vasco;Yes;43.2667833,-2.0177258;190;285;237.5;Creativa;;;
+Akelare;2;San Sebastian;Guipuzcua;Pais Vasco;Yes;43.307785,-2.0453251;240;;240;Creativa;Tradicional;;
+La Boscana;1;Bellvis;Guipuzcua;Pais Vasco;Yes;41.6618194,0.8057873;55;125;90;Creativa;Tradicional;;
+eMe Be Garrote;1;San Sebastian;Guipuzcua;Pais Vasco;Yes;43.3005758,-2.0120315;60;105;82.5;Contemporanea;;;Vasca
+Mugaritz;2;Errentia;Guipuzcua;Pais Vasco;Yes;43.2723222,-1.9193314;220;;220;Creativa;;;
+Amelia;1;San Sebastian;Guipuzcua;Pais Vasco;Yes;43.3169097,-1.9883354;170;;170;Creativa;;Internacional;
+Kokotxa;1;San Sebastian;Guipuzcua;Pais Vasco;Yes;43.323537,-1.9892727;88;120;104;Moderna;;;
+Arzak;3;San Sebastian;Guipuzcua;Pais Vasco;Yes;43.3214494,-1.9514804;195;255;225;Creativa;Tradicional;;
+Mirador de Ulia;1;San Sebastian;Guipuzcua;Pais Vasco;Yes;43.3287908,-1.9697418;65;120;92.5;Creativa;;;
+Zuberoa;1;Oiartzun;Guipuzcua;Pais Vasco;Yes;43.2930794,-1.8685628;90;154;122;Tradicional;;;
+Es Fum;1;Palmanova;Islas Baleares;Islas Baleares;Yes;39.5284887,2.5486078;135;160;147.5;Creativa;;;Balear
+Alameda;1;Hondarribia;Guipuzcua;Pais Vasco;Yes;43.3612116,-1.7948323;78;115;96.5;Moderna;;;
+Adrian Quetglas;1;Palma de Mallorca;Islas Baleares;Islas Baleares;Yes;39.5734904,2.6414388;35;60;47.5;Moderna;;;
+DINS Santi Taura;1;Palma de Mallorca;Islas Baleares;Islas Baleares;Yes;39.5657104,2.6508216;70;95;82.5;Moderna;;;
+Marc Fosh;1;Palma de Mallorca;Islas Baleares;Islas Baleares;Yes;39.5734201,2.6491176;29;92;60.5;Moderna;;;
+Callizo;1;Ainsa;Huesca;Aragon;No;42.4176075,0.1358916;70;90;80;Creativa;Innovadora;;
+Bens d'Avall;1;Soller;Islas Baleares;Islas Baleares;Yes;39.7765476,2.6644796;60;80;70;Regional;;;Balear
+El Raco d'Es Teix;1;Deia;Islas Baleares;Islas Baleares;Yes;39.7470089,2.6474951;38;120;79;Internacional;Clasca;;
+Maca de Castro;1;Port d'Alcudia;Islas Baleares;Islas Baleares;Yes;39.834053,3.1159604;132;;132;Creativa;;;
+Cocina Hermanos Torres;2;Barcelona;Barcelona;Cataluña;Yes;41.3865123,2.1379099;104;185;144.5;Creativa;;;
+Pakta;1;Barcelona;Barcelona;Cataluña;Yes;41.3744,2.1523113;120;;120;Fusion;;Peruano-japonesa;
+Via Veneto;1;Barcelona;Barcelona;Cataluña;Yes;41.3923738,2.1369106;65;130;97.5;Clasica;;;
+Cinc Sentis;2;Barcelona;Barcelona;Cataluña;Yes;41.3783882,2.1502284;99;119;109;Creativa;;;
+Hoja Santa;1;Barcelona;Barcelona;Cataluña;Yes;41.3761701,2.1519417;55;75;65;Internacional;;Mexicana;
+Enigma;1;Barcelona;Barcelona;Cataluña;Yes;41.3767234,2.1519097;220;;220;Creativa;;;
+Tickets;1;Barcelona;Barcelona;Cataluña;Yes;41.3752065,2.1546614;30;60;45;Creativa;;;
+Disfrutar;2;Barcelona;Barcelona;Cataluña;Yes;41.3877627,2.1510103;155;195;175;Creativa;;;
+Hisop;1;Barcelona;Barcelona;Cataluña;Yes;41.3943864,2.145896;60;70;65;Creativa;;;
+ABaC;3;Barcelona;Barcelona;Cataluña;Yes;41.410627,2.1341802;225;;225;Creativa;;;
+Alkimia;1;Barcelona;Barcelona;Cataluña;Yes;41.3826599,2.1611752;73;170;121.5;Moderna;;;
+Angle;2;Barcelona;Barcelona;Cataluña;Yes;41.3881898,2.1577469;145;;145;Moderna;;;
+Hofmann;1;Barcelona;Barcelona;Cataluña;Yes;41.3971869,2.1509057;42;82;62;Moderna;;;
+Xerta;1;Barcelona;Barcelona;Cataluña;Yes;41.3945816,2.1542895;38;120;79;Creativa;;;
+Dos Palillos;1;Barcelona;Barcelona;Cataluña;Yes;41.3833378,2.1664192;45;110;77.5;Fusion;;;
+Lasarte;3;Barcelona;Barcelona;Cataluña;Yes;41.3936151,2.1597557;150;260;205;Creativa;;;
+Oria;1;Barcelona;Barcelona;Cataluña;Yes;41.3939122,2.1600669;45;120;82.5;Moderna;;;
+Moments;2;Barcelona;Barcelona;Cataluña;Yes;41.391174,2.1644413;150;189;169.5;Creativa;;;
+Koy Shunka;1;Barcelona;Barcelona;Cataluña;Yes;41.3858417,2.1731136;60;139;99.5;Internacional;;Japonesa;
+Caelis;1;Barcelona;Barcelona;Cataluña;Yes;41.3870519,2.1721473;42;135;88.5;Creativa;;;
+Enoteca;2;Barcelona;Barcelona;Cataluña;Yes;41.3870119,2.194446;90;190;140;Moderna;;;
+Fogony;1;Sort;Lerida;Cataluña;No;42.4155693,1.1298323;38;75;56.5;Moderna;;;
+L'o;1;Sant Fruitos de Bages;Barcelona;Cataluña;Yes;41.744721,1.8982893;55;95;75;Moderna;;;
+Aürt;1;Barcelona;Barcelona;Cataluña;Yes;41.4084564,2.2157134;98;;98;Moderna;;;
+Lluerna;1;Santa Coloma dde Gramenet;Barcelona;Cataluña;Yes;41.4553971,2.2044158;45;88;66.5;Moderna;;;
+Voro;1;Canyamel;Islas Baleares;Islas Baleares;Yes;39.6688384,3.4364996;110;140;125;Moderna;;;
+Andreu Genestra;1;Capdepera;Islas Baleares;Islas Baleares;Yes;39.7134964,3.4264362;65;110;87.5;Creativa;;;
+Tresmacarrons;1;El Masnou;Barcelona;Cataluña;Yes;41.3639068,2.4356781;50;110;80;Moderna;;;
+Estany Clar;1;Cercs;Barcelona;Cataluña;Yes;41.6390249,-0.4998377;50;80;65;Moderna;;;
+Els Casals;1;Sagas;Barcelona;Cataluña;Yes;42.0313895,1.9587197;50;78;64;Contemporanea;;Catalana;
+Sala;1;Olost;Barcelona;Cataluña;Yes;41.9860238,2.0935183;50;150;100;Tradicional;;;
+Can Jubany;1;Calldetenes;Barcelona;Cataluña;Yes;41.929413,2.2991439;70;135;102.5;Moderna;;;
+Les Magnolies;1;Arbucies;Gerona;Cataluña;Yes;41.8188926,2.5060808;60;85;72.5;Moderna;;;
+La Fonda Xesc;1;Gombren;Gerona;Cataluña;Yes;42.2481679,2.0892391;45;90;67.5;Moderna;;;
+L'Aliança 1919 d'Angles;1;Angles;Gerona;Cataluña;Yes;41.9560668,2.636796;25;85;55;Moderna;;Catalana;
+Ca l'Enric;1;La Vall de Bianya;Gerona;Cataluña;Yes;42.2217107,2.4380529;70;130;100;Creativa;;;
+La Cuina de Can Simon;1;Tossa de Mar;Gerona;Cataluña;Yes;41.7171673,2.9324115;60;98;79;Creativa;;;
+Les Cols;2;Olot;Gerona;Cataluña;Yes;42.1949922,2.4988636;135;;135;Creativa;;;
+Els Tinars;1;Llagostera;Gerona;Cataluña;Yes;41.8275338,2.951596;52;90;71;Tradicional;;;
+El Celler de Can Roca;3;Gerona;Gerona;Cataluña;Yes;41.9934108,2.8060718;190;350;270;Creativa;;;
+Massana;1;Gerona;Gerona;Cataluña;Yes;41.9850687,2.8172579;80;125;102.5;Moderna;;;
+Ca l'Arpa;1;Bañolas;Gerona;Cataluña;Yes;42.1167442,2.7621125;24;80;52;Tradicional;;;
+Atempo;1;Sant Julia de Ramis;Gerona;Cataluña;Yes;42.0028367,2.8813257;145;175;160;Creativa;Moderna;;
+Bo.TiC;2;Corça;Gerona;Cataluña;Yes;41.987888,3.0138025;68;149;108.5;Creativa;;;
+Casamar;1;Llafranc;Gerona;Cataluña;Yes;42.3081311,3.008897;55;84;69.5;Moderna;;;
+Castell Peralada;1;Peralada;Gerona;Cataluña;Yes;42.3081311,3.008897;72;100;86;Moderna;;;
+Emporium;1;Castello d'Empuries;Gerona;Cataluña;Yes;42.255932,3.0739688;60;98;79;Moderna;;;
+Miramar;2;Llança;Gerona;Cataluña;Yes;42.3710596,3.1579516;110;200;155;Creativa;;;
+Kazan;1;Santa Cruz de Tenerife;Santa Cruz de Tenerife;Islas Canarias;Yes;28.4682464,-16.2505415;50;100;75;Internacional;;Japonesa;
+La Aquarela;1;Arguineguin;Las Palmas;Islas Canarias;Yes;27.5184164,-15.778269;65;89;77;Creativa;;;
+Los Guayres;1;Puerto de Mogan;Las Palmas;Islas Canarias;Yes;27.8225857,-15.7625521;90;105;97.5;Moderna;;Española;
+Abama Kabuki;1;Guia de Isora;Santa Cruz de Tenerife;Islas Canarias;Yes;28.1705504,-16.7951248;80;145;112.5;Internacional;;Japonesa;
+M.B;1;Guia de Isora;Santa Cruz de Tenerife;Islas Canarias;Yes;28.1709985,-16.8015611;105;183;144;Creativa;;;
