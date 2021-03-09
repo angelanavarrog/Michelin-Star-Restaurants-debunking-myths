@@ -7,7 +7,8 @@ imagen = Image.open("images/image1.jpg")
 
 st.image(imagen)
 st.write( """
-# Api created to visualize Michelin Restaurant database"""
+# Spanish Michelin awarded restaurant app"""
+
 )
 
 st.write( """
