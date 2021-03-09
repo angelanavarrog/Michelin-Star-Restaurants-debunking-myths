@@ -16,4 +16,11 @@ def normalize(s):
         s = s.replace(a, b).replace(a.upper(), b.upper())
     return s
 
+def convert_str():
+
+    total_values = []
+    for i in range(len(total_values)):
+        myVal = total_values[i].replace(".", "")
+        total_values[i] = int(myVal)
+        return total_values
 

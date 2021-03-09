@@ -1,54 +1,53 @@
-Provincias;Sexo;Periodo;Total
-Nacional;Total;2020;47.450.795
-Albacete;Total;2020;388.270
-Alicante;Total;2020;1.879.888
-Almeria;Total;2020;727.945
-Alava;Total;2020;333.940
-Asturias;Total;2020;1.018.784
-Avila;Total;2020;157.664
-Badajoz;Total;2020;672.137
-Islas Baleares;Total;2020;1.171.543
-Barcelona;Total;2020;5.743.402
-Vizcaya;Total;2020;1.159.443
-Burgos;Total;2020;357.650
-Caceres;Total;2020;391.850
-Cadiz;Total;2020;1.244.049
-Cantabria;Total;2020;582.905
-Castellon;Total;2020;585.590
-Ciudad Real;Total;2020;495.045
-Cordoba;Total;2020;781.451
-La Coruna;Total;2020;1.121.815
-Cuenca;Total;2020;196.139
-Guipuzcua;Total;2020;727.121
-Gerona;Total;2020;781.788
-Granada;Total;2020;919.168
-Guadalajara;Total;2020;261.995
-Huelva;Total;2020;524.278
-Huesca;Total;2020;222.687
-Jaen;Total;2020;631.381
-Leon;Total;2020;456.439
-Lerida;Total;2020;438.517
-Lugo;Total;2020;327.946
-Madrid;Total;2020;6.779.888
-Malaga;Total;2020;1.685.920
-Murcia;Total;2020;1.511.251
-Navarra;Total;2020;661.197
-Ourense;Total;2020;306.650
-Palencia;Total;2020;160.321
-Palmas, Las;Total;2020;1.131.065
-Pontevedra;Total;2020;945.408
-La Rioja;Total;2020;319.914
-Salamanca;Total;2020;329.245
-Santa Cruz de Tenerife;Total;2020;1.044.887
-Segovia;Total;2020;153.478
-Sevilla;Total;2020;1.950.219
-Soria;Total;2020;88.884
-Tarragona;Total;2020;816.772
-Teruel;Total;2020;134.176
-Toledo;Total;2020;703.772
-Valencia;Total;2020;2.591.875
-Valladolid;Total;2020;520.649
-Zamora;Total;2020;170.588
-Zaragoza;Total;2020;972.528
-Ceuta;Total;2020;84.202
-Melilla;Total;2020;87.076
+Provincias;Region;Sexo;Periodo;Total
+Albacete;Castilla la Mancha;Total;2020;388.270
+Alicante;C.Valenciana;Total;2020;1.879.888
+Almeria;Andalucia;Total;2020;727.945
+Alava;Pais Vasco;Total;2020;333.940
+Asturias;Asturias;Total;2020;1.018.784
+Avila;Castilla y Leon;Total;2020;157.664
+Badajoz;Extremadura;Total;2020;672.137
+Islas Baleares;Islas Baleares;Total;2020;1.171.543
+Barcelona;Cataluna;Total;2020;5.743.402
+Vizcaya;Pais Vasco;Total;2020;1.159.443
+Burgos;Castilla y Leon;Total;2020;357.650
+Caceres;Extremadura;Total;2020;391.850
+Cadiz;Andalucia;Total;2020;1.244.049
+Cantabria;Cantabria;Total;2020;582.905
+Castellon;C.Valenciana;Total;2020;585.590
+Ciudad Real;Castilla la Mancha;Total;2020;495.045
+Cordoba;Andalucia;Total;2020;781.451
+La Coruna;Galicia;Total;2020;1.121.815
+Cuenca;Castilla la Mancha;Total;2020;196.139
+Guipuzcua;Pais Vasco;Total;2020;727.121
+Gerona;Cataluna;Total;2020;781.788
+Granada;Andalucia;Total;2020;919.168
+Guadalajara;Castilla la Mancha;Total;2020;261.995
+Huelva;Andalucia;Total;2020;524.278
+Huesca;Aragon;Total;2020;222.687
+Jaen;Andalucia;Total;2020;631.381
+Leon;Castilla y Leon;Total;2020;456.439
+Lerida;Cataluna;Total;2020;438.517
+Lugo;Galicia;Total;2020;327.946
+Madrid;C.Madrid;Total;2020;6.779.888
+Malaga;Andalucia;Total;2020;1.685.920
+Murcia;Murcia;Total;2020;1.511.251
+Navarra;Navarra;Total;2020;661.197
+Ourense;Galicia;Total;2020;306.650
+Palencia;Castilla y Leon;Total;2020;160.321
+Palmas, Las;Islas Canarias;Total;2020;1.131.065
+Pontevedra;Galicia;Total;2020;945.408
+La Rioja;La Rioja;Total;2020;319.914
+Salamanca;Castilla y Leon;Total;2020;329.245
+Santa Cruz de Tenerife;;Total;2020;1.044.887
+Segovia;Castilla y Leon;Total;2020;153.478
+Sevilla;Andalucia;Total;2020;1.950.219
+Soria;Castilla y Leon;Total;2020;88.884
+Tarragona;Cataluna;Total;2020;816.772
+Teruel;Aragon;Total;2020;134.176
+Toledo;Castilla la Mancha;Total;2020;703.772
+Valencia;C.Valenciana;Total;2020;2.591.875
+Valladolid;Castilla y Leon;Total;2020;520.649
+Zamora;Castilla y Leon;Total;2020;170.588
+Zaragoza;Aragon;Total;2020;972.528
+Ceuta;Ceuta;Total;2020;84.202
+Melilla;Melilla;Total;2020;87.076
