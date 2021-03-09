@@ -1,54 +1,54 @@
 Provincias,Region,Sexo,Periodo,Population,Employment rate,Unemployment rate
-Albacete,Castilla la Mancha,Total,2020.0,388270,"48,81","16,13"
-Alicante,C.Valenciana,Total,2020.0,1879888,"48,63","17,44"
-Almeria,Andalucia,Total,2020.0,727945,"45,92","19,41"
-Alava,Pais Vasco,Total,2020.0,333940,"47,09","21,15"
-Asturias,Asturias,Total,2020.0,1018784,"49,6","9,99"
-Avila,Castilla y Leon,Total,2020.0,157664,"43,41","13,5"
-Badajoz,Extremadura,Total,2020.0,672137,"46,69","16,06"
-Islas Baleares,Islas Baleares,Total,2020.0,1171543,"42,96","22,91"
-Barcelona,Cataluna,Total,2020.0,5743402,"51,08","17,34"
-Vizcaya,Pais Vasco,Total,2020.0,1159443,"52,97","13,67"
-Burgos,Castilla y Leon,Total,2020.0,357650,"48,18","11,86"
-Caceres,Extremadura,Total,2020.0,391850,"51,65","9,4"
-Cadiz,Andalucia,Total,2020.0,1244049,"43,63","18,52"
-Cantabria,Cantabria,Total,2020.0,582905,"41,42","24,91"
-Castellon,C.Valenciana,Total,2020.0,585590,"47,74","11,79"
-Ciudad Real,Castilla la Mancha,Total,2020.0,495045,"49,81","14,12"
-Cordoba,Andalucia,Total,2020.0,781451,"44,94","17,49"
-La Coruna,Galicia,Total,2020.0,1121815,"44,16","23,75"
-Cuenca,Castilla la Mancha,Total,2020.0,196139,"46,83","11,63"
-Guipuzcua,Pais Vasco,Total,2020.0,727121,"47,87","12,73"
-Gerona,Cataluna,Total,2020.0,781788,"53,03","7,02"
-Granada,Andalucia,Total,2020.0,919168,"52,75","13,33"
-Guadalajara,Castilla la Mancha,Total,2020.0,261995,"41,73","24,84"
-Huelva,Andalucia,Total,2020.0,524278,"53,78","13,96"
-Huesca,Aragon,Total,2020.0,222687,"39,75","27,16"
-Jaen,Andalucia,Total,2020.0,631381,"50,2","12,46"
-Leon,Castilla y Leon,Total,2020.0,456439,"41,46","22,75"
-Lerida,Cataluna,Total,2020.0,438517,"42,66","12,07"
-Lugo,Galicia,Total,2020.0,327946,"56,05","10,98"
-Madrid,C.Madrid,Total,2020.0,6779888,"47,77","8,25"
-Malaga,Andalucia,Total,2020.0,1685920,"54,76","13,53"
-Murcia,Murcia,Total,2020.0,1511251,"46,34","19,32"
-Navarra,Navarra,Total,2020.0,661197,"49,75","15,39"
-Ourense,Galicia,Total,2020.0,306650,"51,3","11,65"
-Palencia,Castilla y Leon,Total,2020.0,160321,"42,35","10,26"
-Las Palmas,Islas Canarias,Total,2020.0,1131065,"49,3","9,64"
-Pontevedra,Galicia,Total,2020.0,945408,"42,31","25,88"
-La Rioja,La Rioja,Total,2020.0,319914,"46,17","13,27"
-Salamanca,Castilla y Leon,Total,2020.0,329245,"53,26","10,36"
-Santa Cruz de Tenerife,,Total,2020.0,1044887,"44,51","15,75"
-Segovia,Castilla y Leon,Total,2020.0,153478,"43,62","24,53"
-Sevilla,Andalucia,Total,2020.0,1950219,"55,02","8,21"
-Soria,Castilla y Leon,Total,2020.0,88884,"44,63","22,44"
-Tarragona,Cataluna,Total,2020.0,816772,"52,52","7,67"
-Teruel,Aragon,Total,2020.0,134176,"48,85","17,47"
-Toledo,Castilla la Mancha,Total,2020.0,703772,"50,67","9,25"
-Valencia,C.Valenciana,Total,2020.0,2591875,"48,9","19,85"
-Valladolid,Castilla y Leon,Total,2020.0,520649,"49,41","14,65"
-Zamora,Castilla y Leon,Total,2020.0,170588,"50,31","11,35"
-Zaragoza,Aragon,Total,2020.0,972528,"44,99","11,47"
-Ceuta,Ceuta,Total,2020.0,84202,"51,38","12,92"
-Melilla,Melilla,Total,2020.0,87076,"41,07","26,74"
-,,,,,"49,93","23,83"
+Albacete,Castilla la Mancha,Total,2020.0,388270.0,48.81,16.13
+Alicante,C.Valenciana,Total,2020.0,1879888.0,48.63,17.44
+Almeria,Andalucia,Total,2020.0,727945.0,45.92,19.41
+Alava,Pais Vasco,Total,2020.0,333940.0,47.09,21.15
+Asturias,Asturias,Total,2020.0,1018784.0,49.6,9.99
+Avila,Castilla y Leon,Total,2020.0,157664.0,43.41,13.5
+Badajoz,Extremadura,Total,2020.0,672137.0,46.69,16.06
+Islas Baleares,Islas Baleares,Total,2020.0,1171543.0,42.96,22.91
+Barcelona,Cataluna,Total,2020.0,5743402.0,51.08,17.34
+Vizcaya,Pais Vasco,Total,2020.0,1159443.0,52.97,13.67
+Burgos,Castilla y Leon,Total,2020.0,357650.0,48.18,11.86
+Caceres,Extremadura,Total,2020.0,391850.0,51.65,9.4
+Cadiz,Andalucia,Total,2020.0,1244049.0,43.63,18.52
+Cantabria,Cantabria,Total,2020.0,582905.0,41.42,24.91
+Castellon,C.Valenciana,Total,2020.0,585590.0,47.74,11.79
+Ciudad Real,Castilla la Mancha,Total,2020.0,495045.0,49.81,14.12
+Cordoba,Andalucia,Total,2020.0,781451.0,44.94,17.49
+La Coruna,Galicia,Total,2020.0,1121815.0,44.16,23.75
+Cuenca,Castilla la Mancha,Total,2020.0,196139.0,46.83,11.63
+Guipuzcua,Pais Vasco,Total,2020.0,727121.0,47.87,12.73
+Gerona,Cataluna,Total,2020.0,781788.0,53.03,7.02
+Granada,Andalucia,Total,2020.0,919168.0,52.75,13.33
+Guadalajara,Castilla la Mancha,Total,2020.0,261995.0,41.73,24.84
+Huelva,Andalucia,Total,2020.0,524278.0,53.78,13.96
+Huesca,Aragon,Total,2020.0,222687.0,39.75,27.16
+Jaen,Andalucia,Total,2020.0,631381.0,50.2,12.46
+Leon,Castilla y Leon,Total,2020.0,456439.0,41.46,22.75
+Lerida,Cataluna,Total,2020.0,438517.0,42.66,12.07
+Lugo,Galicia,Total,2020.0,327946.0,56.05,10.98
+Madrid,C.Madrid,Total,2020.0,6779888.0,47.77,8.25
+Malaga,Andalucia,Total,2020.0,1685920.0,54.76,13.53
+Murcia,Murcia,Total,2020.0,1511251.0,46.34,19.32
+Navarra,Navarra,Total,2020.0,661197.0,49.75,15.39
+Ourense,Galicia,Total,2020.0,306650.0,51.3,11.65
+Palencia,Castilla y Leon,Total,2020.0,160321.0,42.35,10.26
+Las Palmas,Islas Canarias,Total,2020.0,1131065.0,49.3,9.64
+Pontevedra,Galicia,Total,2020.0,945408.0,42.31,25.88
+La Rioja,La Rioja,Total,2020.0,319914.0,46.17,13.27
+Salamanca,Castilla y Leon,Total,2020.0,329245.0,53.26,10.36
+Santa Cruz de Tenerife,,Total,2020.0,1044887.0,44.51,15.75
+Segovia,Castilla y Leon,Total,2020.0,153478.0,43.62,24.53
+Sevilla,Andalucia,Total,2020.0,1950219.0,55.02,8.21
+Soria,Castilla y Leon,Total,2020.0,88884.0,44.63,22.44
+Tarragona,Cataluna,Total,2020.0,816772.0,52.52,7.67
+Teruel,Aragon,Total,2020.0,134176.0,48.85,17.47
+Toledo,Castilla la Mancha,Total,2020.0,703772.0,50.67,9.25
+Valencia,C.Valenciana,Total,2020.0,2591875.0,48.9,19.85
+Valladolid,Castilla y Leon,Total,2020.0,520649.0,49.41,14.65
+Zamora,Castilla y Leon,Total,2020.0,170588.0,50.31,11.35
+Zaragoza,Aragon,Total,2020.0,972528.0,44.99,11.47
+Ceuta,Ceuta,Total,2020.0,84202.0,51.38,12.92
+Melilla,Melilla,Total,2020.0,87076.0,41.07,26.74
+,,,,,49.93,23.83
