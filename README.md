@@ -12,10 +12,10 @@ Demonstrate a serie of Hypotheses thar relate Michelin restaurant with economic 
 
 ## Procedure
 
-## Resources
+## Libraries
 
 ## Data sources
 
--[Spain Michelin Guide](https://guide.michelin.com/es/es/restaurantes/1-estrella-michelin/2-estrellas-michelin/3-estrellas-michelin)
+- [Spain Michelin Guide](https://guide.michelin.com/es/es/restaurantes/1-estrella-michelin/2-estrellas-michelin/3-estrellas-michelin)
 
 - [Instituto Nacional de Estadística](https://www.ine.es/): used to obtain demographic and economic information.

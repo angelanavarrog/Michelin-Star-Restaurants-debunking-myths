@@ -25,7 +25,13 @@ st.dataframe(graph1)
 region = st.selectbox(
     "Choose a region",dat.region_list())
 
+
+datapragh = dat.graph(region)
+fig = px.bar(datapragh, y = "michelin_stars", title = f"Amount of restaurants in {region}",
+labels = {"index": "region"}
+)
 st.bar_chart(graph1)
+
 
 st.write( """
 ### How are Michelin Stars distributed per province?""")
@@ -36,18 +42,17 @@ st.bar_chart(graph2)
 
 province = st.selectbox(
     "Choose a province",dat.province_list())
-st.write("You selected this option ",province)
+st.write("You selected:",province)
 
 datapragh = dat.graph(province)
-fig = px.line(datapragh, y = "michelin_stars", title = f"Amount of restaurants in {province}",
-labels = {"index": "province"}
+fig = px.bar(datapragh, y = "michelin_stars", title = f"Amount of restaurants in {province}",
+labels = {"index": "restaurant"}
 )
 st.plotly_chart(fig)
+
 
 
 st.write( """
 ### Province: populationd and employment and unemployment rates""")
 province_data = dat.charge_data2()
 st.dataframe(dat.charge_data2())
-
-
