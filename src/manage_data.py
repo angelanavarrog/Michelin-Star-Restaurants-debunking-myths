@@ -32,8 +32,8 @@ def region_list():
 
 def graph(region):
     data = charge_data()
-    data = data[(data["region"]== f"{province}")]
+    data = data[(data["region"]== f"{region}")]
     data = data[["region","michelin_stars"]].reset_index(drop=True)
     data["region"]= data.index+1
-    data["region"]= data.regions.apply(rename_id)
+    data["region"]= data.region.apply(rename_id)
     return data
