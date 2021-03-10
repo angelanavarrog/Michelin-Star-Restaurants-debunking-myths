@@ -23,5 +23,5 @@ def convert_str(element):
 
     x = element.replace(".","")
     number = float(x)
-    return  numbe
+    return  number
 
