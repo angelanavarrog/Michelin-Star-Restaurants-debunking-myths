@@ -32,12 +32,13 @@ To demonstrate the veracity or not of the hypothesis mentioned, we have:
 
 ## Repositories structure
 
-1. 
+1. **Data:**
 2. 
 
 ## Libraries
 
-xf
+## Data sources
+
 - [Spain Michelin Guide](https://guide.michelin.com/es/es/restaurantes/1-estrella-michelin/2-estrellas-michelin/3-estrellas-michelin)
 
 - [Instituto Nacional de Estadística](https://www.ine.es/): used to obtain demographic and economic information.
