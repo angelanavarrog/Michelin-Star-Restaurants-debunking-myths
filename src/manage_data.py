@@ -1,3 +1,6 @@
+# In this file has been defined functions to create an streamlit app.
+
+
 import pandas as pd
 
 def charge_data():
