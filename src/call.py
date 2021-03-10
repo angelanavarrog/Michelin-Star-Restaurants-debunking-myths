@@ -3,8 +3,11 @@ import numpy as np
 
 
 def normalize(s):
-# Function to replace vowels accented by the same unaccented vowels.
-
+"""
+Function to replace vowels accented by the same unaccented vowels.
+input: words with accented words
+output: words unaccentedd vowels.
+"""
     replacements = (
         ("á", "a"),
         ("é", "e"),
@@ -17,7 +20,7 @@ def normalize(s):
     return s
 
 def convert_str(element):
-# Function to convert object data to int when needed.
+"""Function to convert object data to int when needed."""
 
     x = element.replace(".","")
     number = float(x)
