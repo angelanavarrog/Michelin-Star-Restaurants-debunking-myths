@@ -21,10 +21,19 @@ Demonstrate a serie of Hypotheses thar relate Michelin restaurant with economic 
 
 ## Procedure
 
+To demonstrate the veracity or not of the hypothesis mentioned, we have:
 
+1. Create a restaurants database.
+2. Extract database from official website.
+3. Clean of mentioned database
+4. Locate restaurants in Spain
+5. Analyze hypothesis.
+6. Conclude the veracity of the hypotheses.
 
 ## Repositories structure
 
+1. 
+2. 
 
 ## Libraries
 
