@@ -1,3 +1,5 @@
+# Streamlit app file 
+
 import streamlit as st
 import src.manage_data as dat
 import plotly.express as px
