@@ -1,6 +1,7 @@
 import pandas as pd
 import numpy as np
 
+# Functions defined and used during cleanings
 
 def normalize(s):
     """ Function to replace vowels accented by the same unaccented vowels.
