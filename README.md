@@ -7,15 +7,28 @@ We often hear that Michelin-starred restaurants are not affordable for everyone.
 
 ## Objective
 
-Demonstrate a serie of Hypotheses thar relate Michelin restaurant with economic and demographic variables.
+Demonstrate a serie of Hypotheses thar relate Michelin restaurant with economic and demographic variables. The analyzed hypotheses are:
+
+- Hypothesis 1: "Awarded restaurants are equally distributed per Spanish regions."
+- Hypothesis 2: "The larger population, the more award-winning restaurants."
+- Hypothesis 3: "The more award-winning regions have lower unemployment rates."
+- Hypothesis 4: "Average menu prices are higher in regions with lower unemployment rates regions."
+- Hypothesis 5: " Highest menu prices are associated to restaurants that counts with a higher number of stars."
+- Hypothesis 6: "Most Michelin-starred restaurants in Spain have been awarded only one star."
+- Hypothesis 7: "Most of the restaurant are located in coast provinces." 
+- Hypothesis 8: "Spanish tourism is concentrated in regions with the most Michelin Star restaurants."
 
 
 ## Procedure
 
+
+
+## Repositories structure
+
+
 ## Libraries
 
-## Data sources
-
+xf
 - [Spain Michelin Guide](https://guide.michelin.com/es/es/restaurantes/1-estrella-michelin/2-estrellas-michelin/3-estrellas-michelin)
 
 - [Instituto Nacional de Estadística](https://www.ine.es/): used to obtain demographic and economic information.
