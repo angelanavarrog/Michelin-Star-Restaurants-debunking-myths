@@ -1,5 +1,5 @@
 # Streamlit app file 
-# It is mandatory to enter into the terminal: "$streamlit run main.py" . A window in Chrome.
+# It is mandatory to enter into the terminal: "$streamlit run streamlit.py" . A window in Chrome.
 
 import streamlit as st
 import src.manage_data as dat
