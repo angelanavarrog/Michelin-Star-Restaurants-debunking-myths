@@ -13,14 +13,6 @@ def charge_data2():
     province_data = pd.read_csv('output/province_data.csv')
     return province_data
 
-def rename_id(x):
-    x = f"Province {x}"
-    return x
-
-"""def rename_r(x):
-    x = f"Region {x}"
-    return x"""
-
 def bar_chart():
     #Function to represent regional Michelin Star information
     data = charge_data()
