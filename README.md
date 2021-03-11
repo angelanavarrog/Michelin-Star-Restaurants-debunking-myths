@@ -2,7 +2,11 @@
 
 ## Context
 
-We often hear that Michelin-starred restaurants are not affordable for everyone.
+We often hear that Michelin-starred restaurants are not affordable for everyone. That booking a table there is mission impossible. Another myth is the size of portions: not enough.
+
+Some of these myths have been altered because of covid-driven changes.
+
+In this project is going to be proved the veracity or the untruth of other myths.
 
 
 ## Objective
