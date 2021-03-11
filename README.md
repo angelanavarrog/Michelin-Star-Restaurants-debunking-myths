@@ -9,19 +9,19 @@ We often hear that Michelin-starred restaurants are not affordable for everyone.
 
 Demonstrate a serie of Hypotheses thar relate Michelin restaurant with economic and demographic variables. The analyzed hypotheses are:
 
-- Hypothesis 1: "Awarded restaurants are equally distributed per Spanish regions."
-- Hypothesis 2: "The larger population, the more award-winning restaurants."
-- Hypothesis 3: "The more award-winning regions have lower unemployment rates."
-- Hypothesis 4: "Average menu prices are higher in regions with lower unemployment rates regions."
-- Hypothesis 5: " Highest menu prices are associated to restaurants that counts with a higher number of stars."
-- Hypothesis 6: "Most Michelin-starred restaurants in Spain have been awarded only one star."
-- Hypothesis 7: "Most of the restaurant are located in coast provinces." 
-- Hypothesis 8: "Spanish tourism is concentrated in regions with the most Michelin Star restaurants."
+- **Hypothesis 1:** "Awarded restaurants are equally distributed per Spanish regions."
+- **Hypothesis 2:** "The larger population, the more award-winning restaurants."
+- **Hypothesis 3:** "The more award-winning regions have lower unemployment rates."
+- **Hypothesis 4:** "Average menu prices are higher in regions with lower unemployment rates regions."
+- **Hypothesis 5:** " Highest menu prices are associated to restaurants that counts with a higher number of stars."
+- **Hypothesis 6:** "Most Michelin-starred restaurants in Spain have been awarded only one star."
+- **Hypothesis 7:** "Most of the restaurant are located in coast provinces." 
+- **Hypothesis 8:** "Spanish tourism is concentrated in regions with the most Michelin Star restaurants."
 
 
 ## Procedure
 
-To demonstrate the veracity or not of the hypothesis mentioned, we have:
+To demonstrate the veracity or not of the hypothesis mentioned, **the procedure followed is**:
 
 1. Create a restaurants database.
 2. Extract database from official website.
@@ -32,8 +32,16 @@ To demonstrate the veracity or not of the hypothesis mentioned, we have:
 
 ## Repositories structure
 
-1. **Data:**
-2. 
+1. **Data:** folder that contains the original databases
+2. **Cleaning:** directory containing .ipynb files where each database was cleaned.
+3. **Output:** folder on which cleaned databases are stored.
+4. **Analysys:** directory where location and hypotheses analysis are saved.
+5. **Images:** folder in which the images used as well as the maps and figures generated in our notebooks are stored.
+6. **Src:** directory where files in format .py are stored. Functions define on these files has been used in other notebooks.
+7. **main.py:** file used to generate a streamlit app where some previously analyzed information is shown in an interactive way. 
+8. **Hypotheses.pdf:** document defining the assumptions and the conclusion reached in each case.
+9. **README.md**
+10. **.gitignore**
 
 ## Libraries
 
