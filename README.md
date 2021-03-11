@@ -41,7 +41,7 @@ To demonstrate the veracity or not of the hypothesis mentioned, **the procedure 
 7. **[main.py:](https://github.com/angelanavarrog/Restaurantes-con-Estrella/blob/master/main.py)** file used to generate a streamlit app where some previously analyzed information is shown in an interactive way. 
 8. **[Hypotheses.pdf:](https://github.com/angelanavarrog/Restaurantes-con-Estrella/blob/master/Hypotheses.pdf)** document defining the assumptions and the conclusion reached in each case.
 9. **[README.md](https://github.com/angelanavarrog/Restaurantes-con-Estrella/blob/master/README.md)**
-10. **[.gitignore](https://github.com/angelanavarrog/Restaurantes-con-Estrella/blob/master/.gitignore**
+10. **[.gitignore](https://github.com/angelanavarrog/Restaurantes-con-Estrella/blob/master/.gitignore)**
 
 ## Libraries
 
