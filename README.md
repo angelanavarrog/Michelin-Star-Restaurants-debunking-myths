@@ -45,6 +45,16 @@ To demonstrate the veracity or not of the hypothesis mentioned, **the procedure 
 
 ## Libraries
 
+- numpy
+- pandas
+- geopandas
+- json
+- matplotlib
+- seaborn
+- bokeh
+- folium
+- Cartoframes
+- shapely
 
 
 ## Data sources
