@@ -32,18 +32,20 @@ To demonstrate the veracity or not of the hypothesis mentioned, **the procedure 
 
 ## Repositories structure
 
-1. **Data:** folder that contains the original databases
-2. **Cleaning:** directory containing .ipynb files where each database was cleaned.
-3. **Output:** folder on which cleaned databases are stored.
-4. **Analysys:** directory where location and hypotheses analysis are saved.
-5. **Images:** folder in which the images used as well as the maps and figures generated in our notebooks are stored.
-6. **Src:** directory where files in format .py are stored. Functions define on these files has been used in other notebooks.
-7. **main.py:** file used to generate a streamlit app where some previously analyzed information is shown in an interactive way. 
-8. **Hypotheses.pdf:** document defining the assumptions and the conclusion reached in each case.
-9. **README.md**
-10. **.gitignore**
+1. **[Data:](https://github.com/angelanavarrog/Restaurantes-con-Estrella/tree/master/data)** folder that contains the original databases
+2. **[Cleaning:](https://github.com/angelanavarrog/Restaurantes-con-Estrella/tree/master/Cleaning)** directory containing .ipynb files where each database was cleaned.
+3. **[Output:](https://github.com/angelanavarrog/Restaurantes-con-Estrella/tree/master/output)** folder on which cleaned databases are stored.
+4. **[Analysys:](https://github.com/angelanavarrog/Restaurantes-con-Estrella/tree/master/Analysis)** directory where location and hypotheses analysis are saved.
+5. **[Images:](https://github.com/angelanavarrog/Restaurantes-con-Estrella/tree/master/images)** folder in which the images used as well as the maps and figures generated in our notebooks are stored.
+6. **[Src:](https://github.com/angelanavarrog/Restaurantes-con-Estrella/tree/master/src)** directory where files in format .py are stored. Functions define on these files has been used in other notebooks.
+7. **[main.py:](https://github.com/angelanavarrog/Restaurantes-con-Estrella/blob/master/main.py)** file used to generate a streamlit app where some previously analyzed information is shown in an interactive way. 
+8. **[Hypotheses.pdf:](https://github.com/angelanavarrog/Restaurantes-con-Estrella/blob/master/Hypotheses.pdf)** document defining the assumptions and the conclusion reached in each case.
+9. **[README.md](https://github.com/angelanavarrog/Restaurantes-con-Estrella/blob/master/README.md)**
+10. **[.gitignore](https://github.com/angelanavarrog/Restaurantes-con-Estrella/blob/master/.gitignore**
 
 ## Libraries
+
+
 
 ## Data sources
 
