@@ -1,5 +1,6 @@
 # Streamlit app file 
 # It is mandatory to enter into the terminal: "$streamlit run streamlit.py" . A window in Chrome.
+# A new conda enviroment to make it run, with Python 3.7.10 .
 
 import streamlit as st
 import src.manage_data as dat
