@@ -30,7 +30,7 @@ To demonstrate the veracity or not of the hypothesis mentioned, **the procedure 
 5. Analyze hypothesis.
 6. Conclude the veracity of the hypotheses.
 
-## Repositories structure
+## Structure of the repository
 
 1. **[Data:](https://github.com/angelanavarrog/Restaurantes-con-Estrella/tree/master/data)** folder that contains the original databases
 2. **[Cleaning:](https://github.com/angelanavarrog/Restaurantes-con-Estrella/tree/master/Cleaning)** directory containing .ipynb files where each database was cleaned.
@@ -62,3 +62,8 @@ To demonstrate the veracity or not of the hypothesis mentioned, **the procedure 
 - [Spain Michelin Guide](https://guide.michelin.com/es/es/restaurantes/1-estrella-michelin/2-estrellas-michelin/3-estrellas-michelin)
 
 - [Instituto Nacional de Estadística](https://www.ine.es/): used to obtain demographic and economic information.
+
+
+## Conclusion:
+
+Once we have cleaned and analyzed our databases, could we conclude **Which  is the relationship between Michelin-starred restaurants, their location and the data of the population in which they are situated?**
