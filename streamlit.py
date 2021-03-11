@@ -17,8 +17,7 @@ imagen = Image.open("images/image1.jpg")
 st.image(imagen)
 st.write( """
 # Spanish Michelin awarded restaurant app 
-## Created to easily find awarded restaurants based on location and prices."""
-)
+## Created to easily find awarded restaurants based on location and prices.""")
 
 # Dataframe restaurants database
 st.write( """
@@ -30,8 +29,6 @@ st.dataframe(dat.charge_data())
 st.write("""
 ## ** Awarded restaurants distribution per Spanish regions.**
 """)
-
-
 
 # Dataframe that matches regions and number of Michelin Star associated
 
